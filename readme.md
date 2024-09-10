@@ -5,3 +5,4 @@
 2. git status : Te menciona la situacion de tu proceso de GIT
 3. git add . : Pasa cambios de working directory a staging area
 4. git commit -m "Mi primer commit" : Pasa cambios de staging area a repository
+5. git log : Te muestra todos los commits
